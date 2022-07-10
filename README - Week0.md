@@ -1,5 +1,4 @@
-# CS50x.Projects
-Repository for all CS50x-related projects
+Week 0 - Scratch
 
 This project was created using Scratch and simulates a record player, complete with start/pause button, rotating tone arm, and revolving platter/vinyl.
 
